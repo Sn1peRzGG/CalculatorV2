@@ -1,0 +1,14 @@
+using System.Diagnostics;
+
+namespace CalculatorV2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+
+    }
+}
